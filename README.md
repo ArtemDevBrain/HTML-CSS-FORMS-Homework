@@ -17,3 +17,5 @@ https://cloud.githubusercontent.com/assets/21219096/20717108/1e29efcc-b65d-11e6-
 
 ## 4. YellowGnom CSSandHTML
 https://artemdevbrain.github.io/YellowGnom/index.html
+#### The validity of the code -
+https://cloud.githubusercontent.com/assets/21219096/20717659/e088a620-b65e-11e6-9995-e1625bb74d79.png
