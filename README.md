@@ -1,7 +1,7 @@
 ## 1. FORMS
 https://github.com/ArtemDevBrain/HTML-CSS-Homewor/blob/roof/forms.html
 
-https://artemdevbrain.github.io/Forms1/
+https://artemdevbrain.github.io/Forms1/index.html
 
 ## 2. HTML
 https://github.com/ArtemDevBrain/HTML/blob/master/index.html
